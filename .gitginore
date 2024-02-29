@@ -1,0 +1,44 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Bytecode files
+*.jar
+
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+
+# Sensitive or environment-specific configuration files
+.idea/inspectionProfiles/
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+.git/*
+.idea/*
+.mvn/*
+
